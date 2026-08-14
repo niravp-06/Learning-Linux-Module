@@ -39,5 +39,5 @@ Course: Learn Linux - The Full Course (YouTube) (Current)
 | [Day-020](Day-020.md) | 11th August 2026 |
 | [Day-021](Day-021.md) | 12th August 2026 |
 | [Day-022](Day-022.md) | 13th August 2026 |
-
+| [Day-023](Day-023.md) | 14th August 2026 |
 ---
