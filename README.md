@@ -1,7 +1,12 @@
 # Linux Learning Log
 
 A day-by-day record of my Linux learning journey.  
-Course: Learn Linux - The Full Course (YouTube) (Current) 
+
+# Course Details
+
+| Video Course | Platform | Link | Status |
+| --- | --- | --- | --- |
+| Learn Linux - Full Course | YouTube | (https://youtu.be/v392lEyM29A) | Completed |
 
 ---
 
