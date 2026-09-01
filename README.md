@@ -7,6 +7,7 @@ A day-by-day record of my Linux learning journey.
 | Video Course | Platform | Link | Status |
 | --- | --- | --- | --- |
 | Learn Linux - Full Course | YouTube | (https://youtu.be/v392lEyM29A) | Completed |
+| Linux for Beginners | YouTube | (https://youtu.be/Byx4sgLR88E) | Current |
 
 ---
 
