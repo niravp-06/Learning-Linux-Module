@@ -60,4 +60,5 @@ A day-by-day record of my Linux learning journey.
 | [Day-035](Day-035.md) | 1st September 2026 |
 | [Day-036](Day-036.md) | 2nd September 2026 |
 | [Day-037](Day-037.md) | 3rd September 2026 |
+| [Day-038](Day-038.md) | 4th September 2026 |
 ---
