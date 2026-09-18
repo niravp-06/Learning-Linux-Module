@@ -70,4 +70,5 @@ A day-by-day record of my Linux learning journey.
 | [Day-045](Day-045.md) | 11th September 2026 |
 | [Day-046](Day-046.md) | 16th September 2026 |
 | [Day-047](Day-047.md) | 17th September 2026 |
+| [Day-048](Day-048.md) | 18th September 2026 |
 ---
