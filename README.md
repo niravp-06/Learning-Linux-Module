@@ -86,4 +86,5 @@ A day-by-day record of my Linux learning journey.
 | [Day-061](<Day 50-100/Day-061.md>) | 16th October 2026 |
 | [Day-062](<Day 50-100/Day-062.md>) | 17th October 2026 |
 | [Day-063](<Day 50-100/Day-063.md>) | 18th October 2026 |
+| [Day-064](<Day 50-100/Day-064.md>) | 19th October 2026 |
 ---
